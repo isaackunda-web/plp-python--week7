@@ -1,0 +1,27 @@
+[Running] python -u "c:\Users\hp\Desktop\PYTHON WEEK7 ASSIGNMENT\list_report.py"
+Numbered Shopping List:
+1. bread
+2. avocado
+3. milk
+4. sweet potatoes
+5. tea
+
+Items with more than 4 letters: 3
+The longest item name is: sweet potatoes
+
+[Done] exited with code=0 in 0.247 seconds
+
+[Running] python -u "c:\Users\hp\Desktop\PYTHON WEEK7 ASSIGNMENT\list_warmup.py"
+First fruit: apple
+Last fruit: date
+After append: ['apple', 'banana', 'cherry', 'date', 'elderberry']
+After remove: ['apple', 'cherry', 'date', 'elderberry']
+Remaining fruits count: 4
+
+[Done] exited with code=0 in 0.406 seconds
+
+[Running] python -u "c:\Users\hp\Desktop\PYTHON WEEK7 ASSIGNMENT\shopping_list.py"
+
+Would you like to (add / remove / show / done)? 
+[Done] exited with code=1 in 709.088 seconds
+
